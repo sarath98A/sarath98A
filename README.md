@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarath_ashok
-- 👀 I’m interested in Testing 
-- 🌱 I’m currently learning Appium..
+- 👀 I’m interested in Full stack developer 
+- 🌱 I’m currently working a Backend develpoer..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sarathashok98@gmail.com
 
